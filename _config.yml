@@ -1,0 +1,3 @@
+name: S.APPS
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title
